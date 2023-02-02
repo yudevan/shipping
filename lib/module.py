@@ -228,7 +228,7 @@ class FieldManager(object):
         data = {}
         for k, v in self.fields_value.items():
             data[k] = v.get()
-        #requests.post("https://hooks.zapier.com/hooks/catch/12773137/b77kqrm/",json=data)
+        #requests goes here
 
 
 class ModConfig(object):
