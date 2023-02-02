@@ -1,0 +1,92 @@
+{
+    "saved_address": {
+        "None": {
+            "name": "None",
+            "address": "",
+            "city": "",
+            "state": "",
+            "zip": "",
+            "phone": "",
+            "email": ""
+        },
+        "MCM Retail Group 1": {
+            "name": "MCM Retail Group 1",
+            "address": "108 Haverhill Dr.",
+            "city": "Ponte Vedra",
+            "state": "FL",
+            "zip": "32082",
+            "phone": "",
+            "email": "mcm1@gmail.com"
+        },
+        "MCM Retail Group 2": {
+            "name": "MCM Retail Group 2",
+            "address": "6900 Philips Hwy Unit #21",
+            "city": "Jacksonville",
+            "state": "FL",
+            "zip": "32216",
+            "phone": "",
+            "email": "mcm.adm@gmail.com"
+        },
+        "MCM Retail Group 3": {
+            "name": "MCM Retail Group 3",
+            "address": "108 Haverhill Dr.",
+            "city": "Ponte Vedra",
+            "state": "FL",
+            "zip": "32082",
+            "phone": "",
+            "email": "mcm@gmail.com"
+        }
+    },
+    "shipper": {
+        "UPS": {
+            "UPS Ground": {
+                "service_value": "UPS Ground",
+                "shipper": "UPS",
+                "shipping_account": "",
+                "length": 0,
+                "width": 0,
+                "heigth": 0,
+                "weight": 0
+            },
+            "UPS 2-Day Air": {
+                "service_value": "UPS 2-Day Air",
+                "shipper": "UPS",
+                "shipping_account": "",
+                "length": 0,
+                "width": 0,
+                "heigth": 0,
+                "weight": 0
+            }
+        },
+        "USPS": {
+            "USPS Priority": {
+                "service_value": "USPS Priority",
+                "shipper": "USPS",
+                "shipping_account": "",
+                "length": 0,
+                "width": 0,
+                "heigth": 0,
+                "weight": 0
+            },
+            "USPS Medium Flat Rate Box": {
+                "service_value": "USPS Medium Flat Rate Box",
+                "shipper": "USPS",
+                "shipping_account": "",
+                "length": 0,
+                "width": 0,
+                "heigth": 0,
+                "weight": 0
+            }
+        }
+    },
+    "shipping_account": {
+        "UPS": {
+            "UPS Firearms Account": {},
+            "UPS Gun Parts Account": {},
+            "UPS Non-FFL Account": {}
+        },
+        "USPS": {
+            "USPS Account": {}
+        }
+    }
+}
